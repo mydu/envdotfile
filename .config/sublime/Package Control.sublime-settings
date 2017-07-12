@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Color Highlighter",
+		"Emmet",
+		"GitGutter",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Theme - Alpenglow"
+	]
+}
